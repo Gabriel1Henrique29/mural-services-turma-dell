@@ -2,8 +2,8 @@
 Projeto didatico para praticar Git, GitHub, branches, commits,
 pull requests, revisao de codigo, build automatico e deploy.
 ## Papeis
-- Code owner: responsavel pelo repositorio, revisao e merge.
-- Devs: responsaveis por criar branches, implementar mudancas e abrir PRs.
+- Code owner: Gabriel Moraes
+- Devs: Matheus Eger, Eduardo Tozin, Guilherme Eger
 ## Como executar
 Abra o arquivo index.html no navegador.
 ## Fluxo esperado
